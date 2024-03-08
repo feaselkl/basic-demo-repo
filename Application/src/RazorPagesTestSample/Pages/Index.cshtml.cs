@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using RazorPagesTestSample.Data;
 using System.Threading;
+using System.IO;
 using System.IO.Compression;
 
 namespace RazorPagesTestSample.Pages
